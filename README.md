@@ -1,2 +1,2 @@
 # code
-programs whitch code your messages
+programs which code your messages.
